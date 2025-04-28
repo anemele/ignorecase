@@ -32,3 +32,9 @@ Update on Linux, touching files in dirs with different names, then test again.
 ---
 
 Pulling on Windows, the files are deleted, the dirs are merge into one named `ABC`, and in which has the files `00 01 10 11`.
+
+---
+
+Record on Linux, there are still dirs `ABC ABc AbC Abc` and their files in.
+
+That is a filesystem difference.
