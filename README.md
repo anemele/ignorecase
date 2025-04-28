@@ -29,3 +29,6 @@ and only checks out one file `abc`, other files disappear, dirs deleted.
 
 Update on Linux, touching files in dirs with different names, then test again.
 
+---
+
+Pulling on Windows, the files are deleted, the dirs are merge into one named `ABC`, and in which has the files `00 01 10 11`.
